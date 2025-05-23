@@ -1,0 +1,55 @@
+/* xl  */
+@media (max-width:1399px){
+	.container-xl{
+		width: 1140px;
+	}
+	.order-1{
+		order: 1;
+	}
+	.order-2{
+		order: 2;
+	}
+	.hero .hero-nav{
+		display: none;
+	}
+	.col-6{
+		width: 100%;
+	}
+	.col-4{
+		width: 100%;
+	}
+	.hero .hero-content img{
+		margin-bottom: 20px;
+	}
+	.hero .hero-content p{
+		margin-top: 16px;
+	}
+	.shoes .shoes-item{
+		margin-top: 10px;
+	}
+	.shoes .shoes-item{
+		margin-bottom: 10px;
+	}
+}
+
+/* lg  */
+@media (max-width:1199px){
+	.container-lg{
+		width: 960px;
+	}
+}
+
+/* md */
+@media (max-width:991px){
+	.container-md{
+		width: 720px;
+	}
+}
+
+/* sm */
+@media (max-width:767px){
+	.container-md{
+		width: 540px;
+	}
+}
+
